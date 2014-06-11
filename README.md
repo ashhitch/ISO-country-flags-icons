@@ -13,9 +13,9 @@ npm install grunt-grunticon --save-dev
 ```
 
 ## Usage
- use the class flagicon plus flag-{countrycode)
+ use the classes: flagicon flag-{countrycode)
 ```html
-<span class="flagicon plus flag-gb"></span>
+<span class="flagicon flag-gb"></span>
 ```
 
 Project uses modernizr to dectect SVG support.
